@@ -1,0 +1,22 @@
+open vs code and terminal 
+copy this and put on terminal (cd C:\Users\karur\OneDrive\Desktop\final-project\Mission_Accomplished\combined)
+copy this and put on terminal (python app.py)
+
+in case of error on mongdb due to database expires 
+
+create a database on freesqldatabase.combined
+sign up and login
+add your location india
+add server location anywhere
+then click create database 
+mail ku credential varum
+
+create db by copy pasting the db.sql
+
+put that cred on app.py
+
+EVERYTHING OK ? okey senior 
+anY DOUBTS ?veliya vandhu 1ST  run mattum pannunga
+
+oK AH haan okey senior thanks
+hAN

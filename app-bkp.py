@@ -27,6 +27,7 @@ genai.configure(api_key='put your api')
 MRI_MODEL_PATH = "combined/model/final_tumor_model.keras"
 mri_model = tf.keras.models.load_model(MRI_MODEL_PATH)
 
+
 # MRI Class Labels
 mri_labels = {0: 'glioma', 1: 'meningioma', 2: 'notumor', 3: 'pituitary'}
 image_size = 150  # For MRI model input
